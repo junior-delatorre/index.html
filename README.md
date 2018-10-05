@@ -1,5 +1,5 @@
 # junior-delatorre.github.io
- <!DOCTYPE html>
+ <junior-delatorre.github.io html>
 <html>
 <head>
 <body>
