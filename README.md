@@ -4,9 +4,10 @@
 <head>
 <body>
 
-<h1>hacking is the best job so try it </h1>
+<h1>xander youre wackk</h1>
+<p> hacking is the best job so try it<P>
 <p>serious you should brother.</p>
-<p> other jobs dont let you chill while smoking a blunt<p>
+<p>xander is dumb for getting caught<p>
 
 </body>
 </html> 
