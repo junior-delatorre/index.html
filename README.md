@@ -4,11 +4,11 @@
 <head>
 <body>
 
-<h1>Laura if you read this your dumb</h1>
-<p> like whattt<P>
-<p>omgggggggg.</p>
-<p>I made this it's pretty cool<p>
-<h2> like in 2 minutes <h2>
+<h1></h1>
+<p>  <p>
+<p>.  <p>
+<p>  <p>
+<h2>  <h2>
 </body>
 </html> 
- <h3> I'm done <h3> 
+ <h3>  <h3> 
